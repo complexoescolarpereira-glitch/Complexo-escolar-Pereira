@@ -1,0 +1,8 @@
+{
+  "name": "Remix CEP Pereira - Portal de Matrícula Virtual",
+  "description": "Portal Oficial de Matrícula Virtual e Gestão Escolar do Complexo Escolar Privado Pereira no Cuanza Sul, Angola. Ensino Primário da Iniciação à 6.ª Classe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
